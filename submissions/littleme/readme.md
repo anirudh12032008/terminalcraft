@@ -1,5 +1,5 @@
-# Little Me
-little me is your virtual clone in the CLI
+# Little Me by Anirudh Sahu
+little me is your virtual clone in the CLI created by Anirudh Sahu
 its designed to help you with getting roasted and getting better
 you can use it to know about things and get better at them, like coding or learning cool stuff
 it uses Generative AI to generate responses and help you with your tasks.
