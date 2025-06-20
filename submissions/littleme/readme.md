@@ -6,24 +6,24 @@ it uses Generative AI to generate responses and help you with your tasks.
 
 
 # Functions
-Talk - Talk to Little Me and get responses.
-Art - Generate ASCII art from text.
-Wipe - Wipe memory and forget all interactions.
-History - Show recent interactions with Little Me.
-Journal Create - Create a new journal.
-Journal Add - Add an entry to a journal.
-Journal Show - Show contents of a journal.
-Control - Let Little Me take control (just for fun!).
-Timer - Set a timer for a specific duration.
-Greet - Get a greeting from Little Me.
-Calc - Calculate a mathematical expression.
-Idea - Get a random idea.
-Fortune - Get a random fortune.
-Glitch - Show a glitch effect.
-Play - Play a guessing game.
-Roll - Roll a dice.
-Help - Show the help message.
-there is also a secret command, try to find it!
+- Talk - Talk to Little Me and get responses.
+- Art - Generate ASCII art from text.
+- Wipe - Wipe memory and forget all interactions.
+- History - Show recent interactions with Little Me.
+- Journal Create - Create a new journal.
+- Journal Add - Add an entry to a journal.
+- Journal Show - Show contents of a journal.
+- Control - Let Little Me take control (just for fun!).
+- Timer - Set a timer for a specific duration.
+- Greet - Get a greeting from Little Me.
+- Calc - Calculate a mathematical expression.
+- Idea - Get a random idea.
+- Fortune - Get a random fortune.
+- Glitch - Show a glitch effect.
+- Play - Play a guessing game.
+- Roll - Roll a dice.
+- Help - Show the help message.
+- there is also a secret command, try to find it!
 
 
 # installation
